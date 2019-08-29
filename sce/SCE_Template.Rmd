@@ -1,0 +1,39 @@
+---
+title: "Student Consulting Exercise"
+author: "Ihr Name"
+date: "WS 2019/20"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(mosaic)
+```
+
+# Daten einlesen
+
+Die Daten sind im `csv` Format gespeichert: `read.csv2()`
+
+```{r}
+# Geben Sie hier den R Code zum Einlesen der Daten ein.
+```
+
+# Modellierung
+
+```{r}
+# Geben Sie hier den R Code zur Modellierung ein.
+```
+
+Interpretieren Sie hier kurz das Ergebnis und leiten Sie die optimale Kombination her.
+
+```{r}
+# Setzen Sie hier ihre optimale Einstellung ein.
+Pizza.Opt <- data.frame(mehl = 0, salz = 0, backpulver = 0)
+```
+
+# Prognose
+
+```{r}
+# Geben Sie hier den R Code zur Vorhersage auf Basis Ihres Modells und Ihrer Einstellung ein.
+```
+
