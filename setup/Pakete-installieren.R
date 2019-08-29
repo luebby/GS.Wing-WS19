@@ -1,3 +1,3 @@
 # Installiert die nötigen R Pakete
 
-install.packages(c("mosaic", "lsr", "rmarkdown", "knitr", "rprojroot", "readxl", "SixSigma"))
+install.packages(c("mosaic", "rmarkdown", "knitr", "rprojroot", "readxl", "SixSigma"))
